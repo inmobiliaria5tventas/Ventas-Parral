@@ -1,0 +1,1 @@
+var json_Municipalidad_6 = {"type":"FeatureCollection","name":"Municipalidad_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","Nombre":"Edificio Consistorial"},"geometry":{"type":"Point","coordinates":[-71.822870269666424,-36.142085602474189]}}]}
